@@ -26,5 +26,7 @@ The app allows users to **start**, **pause**, **reset**, and **record lap times*
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+## 🔗 Connect with Me
 
+- GitHub: https://github.com/SavejAkhtar
+- LinkedIn: www.linkedin.com/in/savej-akhtar-profile

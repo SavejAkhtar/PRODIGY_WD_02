@@ -24,7 +24,7 @@ The app allows users to **start**, **pause**, **reset**, and **record lap times*
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
 
 ## 🔗 Connect with Me
 
